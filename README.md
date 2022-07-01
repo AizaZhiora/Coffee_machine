@@ -18,6 +18,9 @@ D- Power Off
 > The program have pass on replesh and report option
 > Contain three tipes of drink and give change
 
+
+# MODULES DESCRIPTION
+
 ## Extras
 imports os, time
 
