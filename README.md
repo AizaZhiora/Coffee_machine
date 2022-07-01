@@ -2,13 +2,18 @@
 # My first program using OOP
 
 The principal menu contain:
+
 A- Buy a coffee (check menu and cost)
   -espresso
   -latte
   -cappuccino
+  
 B- Replenish (*pass*)
+
 C- Print Report(*pass*)
+
 D- Power Off
+
 
 > The program have pass on replesh and report option
 > Contain three tipes of drink and give change
