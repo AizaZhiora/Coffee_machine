@@ -47,7 +47,7 @@ imports os, time
 ## Transactions_modules
 *select*: Show the drinks menu for take you order
 
-*insert_money*: Receive the cost of the order (Quarters,Dimes,Nickles,Pennies)
+*insert_money*: Receive the cost of the order (Quarters, Dimes, Nickles, Pennies)
 
 *check_price*: Notify if it is not enough money or continue with the order
 
