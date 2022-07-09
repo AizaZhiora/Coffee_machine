@@ -1,4 +1,4 @@
-# cofee_machine
+# Coffee_machine
 # My first program using OOP
 
 The principal menu contain:
