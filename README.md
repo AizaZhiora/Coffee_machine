@@ -1,5 +1,5 @@
 # Coffee Machine
-# My first program using OOP
+## My first program using OOP
 
 The principal menu contain:
 
